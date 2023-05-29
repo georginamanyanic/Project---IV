@@ -51,6 +51,7 @@ El repositorio consiste de:
 - images/: imágenes usadas para el reporte y dashboard 
 - visualization.pbix: archivo de Power BI Desktop con las visualizaciones recogidas en un único dashboard
 
+![imagen](/images/captura_dashboard.png)
 
 
 
